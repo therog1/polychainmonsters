@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.b4799922.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.b4799922.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.477e886c.chunk.js": "/nft-dashboard-template/static/js/2.477e886c.chunk.js",
-    "static/js/2.477e886c.chunk.js.map": "/nft-dashboard-template/static/js/2.477e886c.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.477e886c.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.477e886c.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/background.be7e30c5.png": "/nft-dashboard-template/static/media/background.be7e30c5.png",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/polychainmonsters/static/css/main.15c73246.chunk.css",
+    "main.js": "/polychainmonsters/static/js/main.696b3691.chunk.js",
+    "main.js.map": "/polychainmonsters/static/js/main.696b3691.chunk.js.map",
+    "runtime-main.js": "/polychainmonsters/static/js/runtime-main.4496c528.js",
+    "runtime-main.js.map": "/polychainmonsters/static/js/runtime-main.4496c528.js.map",
+    "static/js/2.e4db3906.chunk.js": "/polychainmonsters/static/js/2.e4db3906.chunk.js",
+    "static/js/2.e4db3906.chunk.js.map": "/polychainmonsters/static/js/2.e4db3906.chunk.js.map",
+    "index.html": "/polychainmonsters/index.html",
+    "static/css/main.15c73246.chunk.css.map": "/polychainmonsters/static/css/main.15c73246.chunk.css.map",
+    "static/js/2.e4db3906.chunk.js.LICENSE.txt": "/polychainmonsters/static/js/2.e4db3906.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/polychainmonsters/static/media/Back.8af6b2fe.svg",
+    "static/media/App.css": "/polychainmonsters/static/media/alert.6e5425f9.svg",
+    "static/media/background.be7e30c5.png": "/polychainmonsters/static/media/background.be7e30c5.png",
+    "static/media/banner.e7e48588.png": "/polychainmonsters/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/polychainmonsters/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/polychainmonsters/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.477e886c.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.b4799922.chunk.js"
+    "static/js/runtime-main.4496c528.js",
+    "static/js/2.e4db3906.chunk.js",
+    "static/css/main.15c73246.chunk.css",
+    "static/js/main.696b3691.chunk.js"
   ]
 }
