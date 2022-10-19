@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+    "collection_address": "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "1",
