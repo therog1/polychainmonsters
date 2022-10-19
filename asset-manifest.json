@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/polychainmonsters/static/css/main.15c73246.chunk.css",
-    "main.js": "/polychainmonsters/static/js/main.8f64ac44.chunk.js",
-    "main.js.map": "/polychainmonsters/static/js/main.8f64ac44.chunk.js.map",
+    "main.js": "/polychainmonsters/static/js/main.bfde35f9.chunk.js",
+    "main.js.map": "/polychainmonsters/static/js/main.bfde35f9.chunk.js.map",
     "runtime-main.js": "/polychainmonsters/static/js/runtime-main.4496c528.js",
     "runtime-main.js.map": "/polychainmonsters/static/js/runtime-main.4496c528.js.map",
     "static/js/2.e4db3906.chunk.js": "/polychainmonsters/static/js/2.e4db3906.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.4496c528.js",
     "static/js/2.e4db3906.chunk.js",
     "static/css/main.15c73246.chunk.css",
-    "static/js/main.8f64ac44.chunk.js"
+    "static/js/main.bfde35f9.chunk.js"
   ]
 }
